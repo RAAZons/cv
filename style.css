@@ -1,0 +1,184 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.bg{
+    height: 60px;
+    width: 540px;
+    background-color: rgb(28, 42, 238);
+}
+
+.par{
+    margin-left: 15px;
+    font-size: 40px;
+    font-weight: 500;
+    font-display: 500px;
+    text-decoration-color: aqua;
+    float: left;
+    
+
+}
+.fb{
+    margin-left: 20px;
+    margin-top: 15px;
+}
+.insta{
+    margin-left: 10px;
+    margin-top: 15px;
+}
+
+
+.menu{
+    width: 600px;
+    height: 70px;
+    font-family: Arial, sans-serif;
+
+}
+ul{
+    float: left;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+ul li{
+    list-style: none;
+    margin-left: 57px;
+    margin-top: 11px;
+    font-size:17px;
+
+}
+ul li a{
+    text-decoration: none;
+    color: cornsilk;
+    font-family: Arial;
+    font-weight: bold;
+    transition: 0.2 ease-in-out;
+
+}
+ul li a:hover{
+    color: rgb(209, 160, 0);
+}
+
+.bg .par{
+    padding-left: 20px;
+}
+.bg2{
+    height: 1370px;
+    width: 1540px;
+    background-color: rgb(14, 206, 231);
+    
+}
+.box{
+    height: 500px;
+    width: 400px;
+    margin-top: 10px;
+    margin-left:1px;
+    border-radius: 20px;
+    border-style: dashed;
+    border-color: dodgerblue;
+    
+    position:relative;
+    background-color: rgb(248, 9, 9);
+
+    
+}
+.pic{
+    width: 100px;
+    height: 60px;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+.bg2 .box1{
+    margin-top: 0px;
+    margin-left: 30px;
+    width: 750px;
+    height: 600px;
+}
+.sam1{
+    color: rgb(241, 238, 236);
+    padding-left: 5px;
+    
+}
+.sam2{
+    color: rgb(0, 255, 34);
+    padding-left: 5px;
+    
+}
+
+.box2{
+    height: 500px;
+    width: 400px;
+    margin-top: 20px;
+    margin-left: 1px;
+    border-radius: 20px;
+    border-style: dashed;
+    border-collapse: collapse;
+    border-color: rgb(226, 250, 8);
+    border-width: 3px;
+    
+    position:relative;
+    background-color: rgb(15, 38, 247);
+    float: left;
+    
+}
+.pic{
+    width: 400px;
+    height: 60px;
+    margin-top: 5px;
+    margin-left: 15px;
+}
+.box1{
+     padding-top: 10px;
+    
+}
+.sam{
+    color: rgba(230, 235, 234, 0.877);
+    padding-left: 5px;
+    
+}
+.sam2{
+    color: rgb(15, 4, 4);
+    padding-left: 5px;
+    
+}
+
+.bg3{
+    height: 570px;
+    width: 485px;
+    background-color: rgb(237, 237, 243);
+    
+}
+.col{
+    width: 475px;
+    height: 400px;
+    padding: 8px;
+    background:linear-gradient(to top,rgba(238, 238, 243, 0.5)50%,rgba(231, 231, 236, 0.5)50%),url(sam1.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 50vh;
+
+}
+.fbb{
+    margin-top: 3px;
+    margin-left: 5px;
+    float: left;
+}
+.fbc{
+    margin-top: 10px;
+    margin-left: 2px;
+
+}
+.insa{
+    margin-top: 3px;
+    margin-left: 5px;
+    float: left;
+}
+.insb{
+    margin-top: 20px;
+    margin-left: 10px;
+
+}
+a.par2{
+    color: ghostwhite;
+}
